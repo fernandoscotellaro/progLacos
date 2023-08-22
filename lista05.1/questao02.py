@@ -1,5 +1,5 @@
 '''
-2)	Desenvolver um programa que exiba os números em ordem decrescente de 100 até 1
+Desenvolver um programa que exiba os números em ordem decrescente de 100 até 1
 '''
 
 cont = 100

@@ -1,5 +1,5 @@
 '''
-5)	Desenvolver um programa que apresente os resultados de uma tabela de um número qualquer. Ela deve ser impressa no seguinte formato:
+Desenvolver um programa que apresente os resultados de uma tabela de um número qualquer. Ela deve ser impressa no seguinte formato:
 
 Considerando como exemplo o fornecimento do número 2
 2. 1 = 2
